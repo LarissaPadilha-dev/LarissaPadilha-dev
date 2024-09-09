@@ -1,4 +1,4 @@
-Olá, me chamo Larissa sou Tecnóloga em Alimentos, pós-graduada em Vigilância Sanitária e Qualidade de Alimentos e em Microbiologia Avançada e também Técnica em redes de computadores, atualmente estou cursando Desenvolvedor Front-End pelo Vai na Web.
+Olá, me chamo Larissa sou Desenvolvedora Front-end, Tecnóloga em Alimentos, pós-graduada em Vigilância Sanitária e Qualidade de Alimentos e em Microbiologia Avançada e também Técnica em redes de computadores, atualmente estou cursando Desenvolvedor Full Stack pelo Vai na Web.
 
 Tenho 26 anos, sou de São Luís no Maranhão.
 Tenho uma paixão pelo universo dos alimentos e da tecnologia da informação. 
