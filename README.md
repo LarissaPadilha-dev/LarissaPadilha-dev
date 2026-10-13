@@ -36,12 +36,6 @@
 
 <br>
 
-```ts
-const larissa = {
-  estudando: "Análise e Desenvolvimento de Sistemas",
-  diferencial: "método, atenção a detalhe e rigor, vindos do laboratório",
-};
-```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=f9a8d4&height=2" width="60%" />
 
@@ -57,5 +51,3 @@ const larissa = {
 
 <br><br>
 
-<sub><b>linguagens e ferramentas</b></sub><br>
-<img src="https://img.shields.io/badge/Python-f47
