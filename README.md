@@ -15,19 +15,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=f9a8d4&height=2" width="60%" />
 
-<h3>✦ sobre mim ✦</h3>
 
-<table>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/constr%C3%B3i-f472b6?style=flat-square" /><br><br>
-      Interfaces com HTML, CSS,<br>Sass, JavaScript e React
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/base-db2777?style=flat-square" /><br><br>
-      Tecnologia em Alimentos<br>e Microbiologia
-    </td>
-  </tr>
-</table>
+
+
 
 <br>
 
