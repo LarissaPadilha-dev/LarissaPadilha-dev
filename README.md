@@ -34,7 +34,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=f9a8d4&height=2" width="60%" />
 
-
+<sub><</b></sub><br>
 <img src="https://img.shields.io/badge/HTML5-ec4899?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-f472b6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-db2777?style=for-the-badge&logo=sass&logoColor=white" />
