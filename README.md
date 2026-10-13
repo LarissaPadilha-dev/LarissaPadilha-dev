@@ -13,12 +13,6 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f9a8d4&height=2" width="60%" />
-
-
-
-
-
 <br>
 
 
